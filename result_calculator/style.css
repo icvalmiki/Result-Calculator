@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+button{
+    height: 5vh;
+    width: 15vh;
+    font: message-box;
+    color: white;
+    background-color: red;
+    position: relative;
+    top: 10px;
+}
+body{
+    background: blueviolet;
+    color: whitesmoke;
+    height: 100%;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+#table{
+    position: relative;
+    float: right;
+    top: -50vh;
+    background-color: black;
+    color: whitesmoke;
+    width: 30%;
+    right: 3%;
+}
